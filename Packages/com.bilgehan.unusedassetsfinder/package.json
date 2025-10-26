@@ -1,0 +1,11 @@
+{
+  "name": "com.bilgehan.unusedassetsfinder",
+  "version": "1.0.0",
+  "displayName": "Unused Assets Finder",
+  "description": "A Unity Editor tool to find and manage unused assets based on Build Settings or specific scenes.",
+  "unity": "6000.2.9f1",
+  "author": {
+    "name": "Bilgehan Demirkaya",
+    "email": "bilgehand2014@gmail.com"
+  }
+}
